@@ -1,6 +1,8 @@
 # Encrypted-Decrypted
 Python code to get plain text from cipher text 
 
+
+
 def decrypt(text, shift):
     decrypted_text = ""
     for char in text:
